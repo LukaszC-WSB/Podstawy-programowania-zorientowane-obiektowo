@@ -61,7 +61,7 @@ class Program
             }
         }
         else
-            Console.WriteLine("Nieprawidłowy kierunek.");
+            Console.WriteLine("Wybierz istniejące opcje.");
     }
 
     static void SredniaOcen()

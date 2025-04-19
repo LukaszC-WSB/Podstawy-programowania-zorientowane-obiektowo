@@ -31,7 +31,7 @@ def konwerter_temperatur():
             wynik = (temp - 32) / 1.8
             print(f"{temp:.2f}°F = {wynik:.2f}°C")
     else:
-        print("Zły kierunek konwersji.")
+        print("Wybierz istniejące opcje..")
 
 def srednia_ocen():
     n = int(input("Ile ocen chcesz podać? "))
